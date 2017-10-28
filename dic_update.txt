@@ -1,0 +1,1 @@
+mecab-dict-index -d "C:\Program Files (x86)\MeCab\dic\ipadic" -u "C:\Users\angel_000\IdeaProjects\mysqlTest2\user.dic" -f shift-jis -t utf-8 "C:\Users\angel_000\IdeaProjects\mysqlTest2\user.csv"
